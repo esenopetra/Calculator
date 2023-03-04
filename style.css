@@ -1,0 +1,29 @@
+.calc{
+    width: 310px;
+    height: 501px;
+    background: gray;
+    margin-left: 425px;
+    margin-top: 85px;
+}
+.btn{
+    width: 64px;
+    height: 52px;
+    margin-top: 22px;
+    margin-left: 8px;
+}
+.clr{
+    width: 160px;
+    margin-top: 20px;
+    height: 48px;
+    margin-left: 75px;
+}
+.sc{
+    margin-left: 32px;
+}
+#screen{
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 284px;
+    height: 48px;
+    pointer-events: none;
+}
